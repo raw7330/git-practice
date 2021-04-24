@@ -1,2 +1,1 @@
 huge
-hoge
